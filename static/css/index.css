@@ -3,3 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+.bkg {
+	background-image: link("https://t3.ftcdn.net/jpg/01/79/15/24/360_F_179152446_d8gMu6db3bTdzldrmH1MXmkKk0sMymLR.jpg");
+}
