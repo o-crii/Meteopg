@@ -5,5 +5,8 @@
 }
 
 .bkg {
-	background-image: link("https://t3.ftcdn.net/jpg/01/79/15/24/360_F_179152446_d8gMu6db3bTdzldrmH1MXmkKk0sMymLR.jpg");
+	background-image: url("https://wallpapers.com/images/featured/weather-xqhs9axpy8btfd3y.jpg");
+	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
 }
