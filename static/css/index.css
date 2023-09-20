@@ -1,12 +1,35 @@
-* {
+*{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
 
-.bkg {
+#hero{
+	width: 100%;
+	height: 100vh;
 	background-image: url("https://wallpapers.com/images/featured/weather-xqhs9axpy8btfd3y.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
 	background-position: center;
- 	background-repeat: no-repeat;
- 	background-size: cover;
+}
+
+input {
+	width: 100%;
+
+}
+
+.flex-fill {
+	flex: 1 !important
+}
+
+#title{
+	padding-top: 20px;
+}
+
+#latitudine{
+	margin-bottom: 10px;
+}
+
+#longitudine{
+	margin-bottom: 10px;
 }
